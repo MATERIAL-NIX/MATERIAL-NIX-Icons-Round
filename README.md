@@ -23,5 +23,6 @@ To deal with hardcoded application icons Material*Nix uses the [hardcode-fixer](
 
 ### Links
   * [Deviantart](http://le-3.deviantart.com/)
-  * [Google+](https://plus.google.com/u/0/communities/103720848213793037553)>
+  * [Google+](https://plus.google.com/u/0/communities/103720848213793037553)
+
 ===================
