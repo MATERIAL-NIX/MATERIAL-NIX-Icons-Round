@@ -1,6 +1,6 @@
 <p align="center">
   <b> [MATERIAL NIX](https://github.com/MATERIAL-NIX) </b><br>
-===========
+ ===========
 
 <p align="center">
   <a href="#">[Round](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Round)</a> |
