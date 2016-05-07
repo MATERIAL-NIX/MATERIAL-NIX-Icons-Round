@@ -8,5 +8,5 @@
 
 ========
 ### About:
-<b>(Round)</b> Material Design inspired Icon theme for Linux from the [Material*Nix project](). This readme provides information on installation, icon requests and hardcoded icons. Licensed under the GPL-3.0+
+<b>(Round)</b> Material Design inspired Icon theme for Linux from the [Material*Nix project](https://github.com/MATERIAL-NIX). This readme provides information on installation, icon requests and hardcoded icons. Licensed under the GPL-3.0+
 
