@@ -20,6 +20,11 @@
 To deal with hardcoded application icons Material*Nix uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [here](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
 
 ### Credits
+Theme inspired By and aiming to adhere to Google's Material Design product icon [guidlines](https://www.google.com/design/spec/style/icons.html#).
+
+Icons are designed and developed by Adam Harley
+
+Official webpage: OnMyToDoList...com
 
 ### Links
   * [Deviantart](http://le-3.deviantart.com/)
