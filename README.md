@@ -1,8 +1,8 @@
 <p align="center">
   <b>[MATERIAL NIX](https://github.com/MATERIAL-NIX)</b><br>
   <a href="#">[Round](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Round)</a> |
-  <a href="#">Square</a> |
-  <a href="#">Base</a>
+  <a href="#">[Square](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Square)</a> |
+  <a href="#">[Base]()</a>
   <br><br>
   <img src="https://github.com/MATERIAL-NIX/Resources/blob/master/Images/Material-Nix-Logo.png">
 
