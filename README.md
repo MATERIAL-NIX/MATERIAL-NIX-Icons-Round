@@ -4,7 +4,7 @@
   <a href="#">[Square](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Square)</a> |
   <a href="#">[Base]()</a>
   <br><br>
-  <img src="https://github.com/MATERIAL-NIX/Resources/blob/master/Images/Material-Nix-Logo.png">
+  <img src="https://github.com/MATERIAL-NIX/Resources/blob/master/Images/MaterialNix-Logo-Circle.png">
 
 ### About
 <b>(Round)</b> Material Design inspired Icon theme for Linux from the [Material*Nix project](https://github.com/MATERIAL-NIX). This readme provides information on installation, icon requests and hardcoded icons. Licensed under the GPL-3.0+
