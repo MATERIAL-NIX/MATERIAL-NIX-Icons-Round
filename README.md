@@ -7,4 +7,4 @@
   <img src="https://github.com/MATERIAL-NIX/Resources/blob/master/Images/Material-Nix-Logo.png">
 
 ========
-### Material Design inspired Product Icons (Round)
+<b>Material Design inspired Product Icons (Round)</b>
