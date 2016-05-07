@@ -11,6 +11,9 @@
 
 ### Installation
 
+```bash
+```
+
 ### Icon Requests
 
 ### Hardcoded Icons
