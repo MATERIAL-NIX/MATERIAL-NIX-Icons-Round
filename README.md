@@ -1,4 +1,4 @@
-#### <p align="center">
+<p align="center">
   <b>MATERIAL NIX:</b><br>
   <a href="#">Round</a> |
   <a href="#">Square</a> |
