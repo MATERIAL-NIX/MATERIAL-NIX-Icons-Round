@@ -1,5 +1,5 @@
-<img align="center" src="![][logo]" alt="png">
-### ->![alt text](MATERIAL NIX Round)<-
+<img align="center" src="![][logo]" alt="...">
+### ->![alt text]MATERIAL NIX Round<-
 ========
 Material Design inspired Product Icons (Round)
 
