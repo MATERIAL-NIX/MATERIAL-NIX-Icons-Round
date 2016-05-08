@@ -35,9 +35,9 @@ When filing an icon request or reporting a missing icon, please take care in pro
  - The file name for the missing icon or the requested icon, for example `gimp.png` or `system-shutdown.svg`
  - A short description of the application or software that you are requesting an icon for.
 
+### Hardcoded Icons
 Note: some software ships hardcoded icons, meaning when you install icons are not placed in the system-wide directory `/usr/share/icons` which makes them unthemeable.
 
-### Hardcoded Icons
 To deal with hardcoded application icons Material*Nix uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [here](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
 
 ### Credits
