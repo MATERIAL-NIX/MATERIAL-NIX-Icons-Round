@@ -38,7 +38,7 @@ When filing an icon request or reporting a missing icon, please take care in pro
  - For Steam games follow [this usefull tutorial](https://www.youtube.com/watch?v=BuUy4CzCoXc)
  - For Chrome apps just post a link to the webstore page. 
 
-#### Note
+##### Note
 When filing your request please be respectful, patient, and remember that development is done solely by myself.
 
 ### Hardcoded Icons
@@ -50,6 +50,8 @@ To deal with hardcoded application icons Material*Nix uses the [hardcode-fixer](
 Theme inspired By and aiming to adhere to Google's Material Design product icon [guidlines](https://www.google.com/design/spec/style/icons.html#).
 
 Icons are designed and developed by Adam Harley
+
+All Scripts are forks of [Paper](https://github.com/snwh/paper-icon-theme) Icon theme By [Sam Hewitt](https://github.com/snwh)
 
 Official webpage: OnMyToDoList...com
 
