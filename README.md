@@ -10,9 +10,9 @@
 <b>(Round)</b> Material Design inspired Icon theme for Linux from the [Material*Nix project](https://github.com/MATERIAL-NIX). This readme provides information on installation, icon requests and hardcoded icons. Licensed under the GPL-3.0+
 
 ### Installation
-####Building Paper####
+##### Building from Source
 
-You can build and install the Paper icon themes from source:
+You can build and install the Material*Nix icon theme from source:
 
     ./autogen.sh
     make
@@ -20,7 +20,7 @@ You can build and install the Paper icon themes from source:
 
 This procedure requires ```autotools``` on your system.
 
-#### Installing Paper
+##### Installing using Script
 
 Alternatively you may install Paper with the provided installation script:
 
