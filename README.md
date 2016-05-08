@@ -29,7 +29,7 @@ Alternatively you may install Paper with the provided installation script:
 
 #####Manually
 
- - Navigate to the directory which contains the icon pack and extract it. Example tar -xzf /home/user/downloads/icon-pack.tar.gz.
+ - Navigate to the directory which contains the icon pack and extract it. Example /home/user/downloads/MATERIAL-NIX-Icons-Round.tar.gz.
  - Move the extracted folder containing the icons to either ~/.icons or ~/.local/share/icons (user only) or to /usr/share/icons (systemwide).
  - Optional: run gtk-update-icon-cache -f -t ~/.icons/<theme_name> to update the icon cache.
  - Select the icon theme using the appropriate configuration tool for your desktop environment or window manager.
