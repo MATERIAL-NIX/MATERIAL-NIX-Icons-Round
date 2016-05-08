@@ -1,8 +1,8 @@
 <p align="center">
-  <b> [MATERIAL NIX](https://github.com/MATERIAL-NIX)</b><br>
-  <a href="#">[Round](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Round)</a> |
-  <a href="#">[Square](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Square)</a> |
-  <a href="#">[Base](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Base)</a>
+  <b> [MATERIAL *NIX](https://github.com/MATERIAL-NIX)</b><br>
+  <a href="#">[*NixRound](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Round)</a> |
+  <a href="#">[*NixSquare](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Square)</a> |
+  <a href="#">[*NixBase](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Base)</a>
   <br><br>
   <img src="https://github.com/MATERIAL-NIX/Resources/blob/master/Images/MaterialNix-Logo-Circle.png">
 
