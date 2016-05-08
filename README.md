@@ -34,6 +34,12 @@ When filing an icon request or reporting a missing icon, please take care in pro
  - A screenshot of your issue or an image of the original icon you are requesting to be themed
  - The file name for the missing icon or the requested icon, for example `gimp.png` or `system-shutdown.svg`
  - A short description of the application or software that you are requesting an icon for.
+ - For normal applications follow [this usefull tutorial](https://plus.google.com/+NumixprojectOrg/posts/DkRmhFZuWez)
+ - For Steam games follow [this usefull tutorial](https://www.youtube.com/watch?v=BuUy4CzCoXc)
+ - For Chrome apps just post a link to the webstore page. 
+
+#### Note
+When filing your request please be respectful, patient, and remember that development is done solely by myself.
 
 ### Hardcoded Icons
 Note: some software ships hardcoded icons, meaning when you install icons are not placed in the system-wide directory `/usr/share/icons` which makes them unthemeable.
