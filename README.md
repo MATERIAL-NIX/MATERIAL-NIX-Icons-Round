@@ -38,11 +38,10 @@ When filing an icon request or reporting a missing icon, please take care in pro
  - For Steam games follow [this usefull tutorial](https://www.youtube.com/watch?v=BuUy4CzCoXc)
  - For Chrome apps just post a link to the webstore page. 
 
-##### Note
-When filing your request please be respectful, patient, and remember that development is done solely by myself.
+#####Note:##### When filing your request please be respectful, patient, and remember that development is done solely by myself.
 
 ### Hardcoded Icons
-Note: some software ships hardcoded icons, meaning when you install icons are not placed in the system-wide directory `/usr/share/icons` which makes them unthemeable.
+#####Note:##### some software ships hardcoded icons, meaning when you install icons are not placed in the system-wide directory `/usr/share/icons` which makes them unthemeable.
 
 To deal with hardcoded application icons Material*Nix uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [here](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
 
