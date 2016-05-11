@@ -22,7 +22,7 @@ This procedure requires ```autotools``` on your system.
 
 ##### Installing using Script
 
-Alternatively you may install Paper with the provided installation script:
+Alternatively you may install Round with the provided installation script:
 
     ./install-icon-theme.sh
     
