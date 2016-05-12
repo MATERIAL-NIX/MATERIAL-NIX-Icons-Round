@@ -17,21 +17,21 @@
 # GitHub Stuff
 %global commit0 40-CHARACTER-HASH-VALUE
 
-name:       MATERIAL-NIX-Icons-Round
+name:       rollo
 version:    0.1
 release:    1
 
-Summary:    MATERIAL*NIX Round Icon theme
+Summary:    Rollo Icon theme
 Group:      System/GUI/Other
 License:    CC-BY-SA-4.0
 Url:        https://plus.google.com/u/0/communities/103720848213793037553
-Source0:    https://github.com/MATERIAL-NIX/%{name}/archive/%{commit0}.tar.gz
+Source0:    https://github.com/material-nix/%{name}/archive/%{commit0}.tar.gz
 Requires:   hicolor-icon-theme, gnome-icon-theme
 BuildArch:  noarch
 
 
 %description
-MATERIAL*NIX Round Icon Theme
+Rollo Icon Theme - Material *Nix Project Round Icons
 
 %prep
 %setup -qn %{name}-%{commit0}
@@ -43,8 +43,8 @@ find -L . -type l -delete
 
 %install
 install -dpm 0755 $RPM_BUILD_ROOT%{_datadir}/icons/
-cp -a MATERIAL-NIX-Round/ $RPM_BUILD_ROOT%{_datadir}/icons/
+cp -a rollo/ $RPM_BUILD_ROOT%{_datadir}/icons/
 
 %files
 %doc AUTHORS COPYING
-%{_datadir}/icons/MATERIAL-NIX-Round/
+%{_datadir}/icons/rollo/

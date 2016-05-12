@@ -4,11 +4,11 @@
          xmlns:gnome="http://api.gnome.org/doap-extensions#"
          xmlns="http://usefulinc.com/ns/doap#">
 
-  <name xml:lang="en">MATERIAL-NIX-Round</name>
-  <shortdesc xml:lang="en">MATERIAL*NIX Round</shortdesc>
-  <homepage rdf:resource="https://github.com/MATERIAL-NIX" />
-  <download-page rdf:resource="https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Round" />
-  <bug-database rdf:resource="https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Round/issues" />
+  <name xml:lang="en">rollo</name>
+  <shortdesc xml:lang="en">rollo</shortdesc>
+  <homepage rdf:resource="https://github.com/material-nix" />
+  <download-page rdf:resource="https://github.com/material-nix/rollo" />
+  <bug-database rdf:resource="https://github.com/material-nix/rollo/issues" />
   <category rdf:resource="http://api.gnome.org/doap-extensions#core" />
 
   <maintainer>

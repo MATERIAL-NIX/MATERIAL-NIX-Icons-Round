@@ -1,5 +1,5 @@
 EXTRA_DIST = \
-	MATERIAL-NIX-Round \
+	rollo \
 	COPYING \
 	AUTHORS \
 	README.md
@@ -8,7 +8,7 @@ themedir = $(datadir)/icons
 
 install-data-hook:
 	$(MKDIR_P) $(DESTDIR)/usr/share/icons
-	cp -Rv MATERIAL-NIX-Round $(DESTDIR)/usr/share/icons/.
+	cp -Rv rollo $(DESTDIR)/usr/share/icons/.
 
 uninstall-hook:
-	test -e $(DESTDIR)/usr/share/icons/MATERIAL-NIX-Round && rm -rfv $(DESTDIR)/usr/share/icons/MATERIAL-NIX-Round
+	test -e $(DESTDIR)/usr/share/icons/rollo && rm -rfv $(DESTDIR)/usr/share/icons/rollo
