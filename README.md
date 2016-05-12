@@ -22,7 +22,7 @@ This procedure requires ```autotools``` on your system.
 
 ##### Installing using Script
 
-Alternatively you may install Round with the provided installation script:
+Alternatively you may install Rollo with the provided installation script:
 
     ./install-icon-theme.sh
     
@@ -30,7 +30,7 @@ Alternatively you may install Round with the provided installation script:
 #####Manually
 
  - Navigate to the directory which contains the icon pack and extract it. 
-  <b>Example:</b> /home/user/downloads/MATERIAL-NIX-Icons-Round.tar.gz.
+  <b>Example:</b> /home/user/downloads/material-nix/rollo.tar.gz.
  - Move the extracted folder containing the icons to either ~/.icons or ~/.local/share/icons (user only) or to /usr/share/icons (systemwide).
  - Optional: run gtk-update-icon-cache -f -t ~/.icons/<theme_name> to update the icon cache.
  - Select the icon theme using the appropriate configuration tool for your desktop environment or window manager.
