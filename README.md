@@ -1,13 +1,13 @@
 <p align="center">
-  <b> [MATERIAL *NIX](https://github.com/MATERIAL-NIX)</b><br>
-  <a href="#">[*NixRound](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Round)</a> |
-  <a href="#">[*NixSquare](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Square)</a> |
-  <a href="#">[*NixBase](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Base)</a>
+  <b> [MATERIAL *NIX](https://github.com/material-nix)</b><br>
+  <a href="#">[Rollo](https://github.com/material-nix/rollo)</a> |
+  <a href="#">[Munchy](https://github.com/material-nix/munchy)</a> |
+  <a href="#">[Burst](https://github.com/material-nix/burst)</a>
   <br><br>
   <img src="https://github.com/MATERIAL-NIX/Resources/blob/master/Images/MaterialNix-Logo-Circle.png">
 
 ### About
-<b>(*NixRound)</b> Material Design inspired Icon theme for Linux from the [Material*Nix project](https://github.com/MATERIAL-NIX). This readme provides information on installation, icon requests and hardcoded icons. Licensed under the GPL-3.0+
+<b>(Rollo)</b> Material Design inspired Icon theme for Linux from the [Material*Nix project](https://github.com/material-nix). This readme provides information on installation, icon requests and hardcoded icons. Licensed under the GPL-3.0+
 
 ### Installation
 ##### Building from Source
